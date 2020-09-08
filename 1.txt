@@ -6,3 +6,4 @@ this is branch4
 updated branch4 and master file
 
 git clone repository
+git fetch testing 
