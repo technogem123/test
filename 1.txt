@@ -4,3 +4,5 @@ this is branch3
 this is master and branch updated file
 this is branch4 
 updated branch4 and master file
+
+git clone repository
